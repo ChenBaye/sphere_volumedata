@@ -27,6 +27,9 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\98109\Desktop\result.PNG" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{A9066185-5BD6-4207-B2BE-3194C413F95D}</ProjectGuid>
